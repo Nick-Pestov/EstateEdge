@@ -20,7 +20,8 @@ We also have a feature called "getRecommendations" that retrieves information on
 We believe these two applications are only the stepping stone of the program, and this program has the potential to evolve in many more directions. Our group explored potential avenues in combining various other datasets including economic trends, and crime rates, in hopes to provide more analytic data to users to make more informed decisions. We were also hoping to get a leaderboard of the best global investment opportunities.
 
 Thank you for reading about our project!
-Rini, Nick, Anant, Thomas
+
+-Rini, Nick, Anant, Thomas
 
 
 Acknowledgements

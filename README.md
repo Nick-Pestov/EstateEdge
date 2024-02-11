@@ -1,6 +1,6 @@
 # EstateEdge
 
-![Logo](Estate.png)
+<img src="Estate.png" alt="Logo" width="100" height="100">
 
 In every pixel of satellite imagery lies a story waiting to be told. A narrative of transformation, expansion, and possibilities unfolds with each pixel. EstateEdge endeavours to bring forth these narratives, enabling you to engage with the tale of progress and prosperity. It's not just about investments; it's about empowering you to make informed decisions that align with your vision for a brighter tomorrow.
 

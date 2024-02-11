@@ -25,6 +25,8 @@ Thank you for reading about our project!
 
 
 Acknowledgements
+
+
 This project utilizes models and code developed by Bob Chesebrough and Professor Q.Wu, which have significantly contributed to the functionality and performance of our application. We extend our gratitude for their support and resources.
 
 Geemap is created by Professor Q.Wu at https://geemap.org/

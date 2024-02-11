@@ -1,0 +1,150 @@
+* {
+    color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    color: black;
+    font-size: 48px;
+    font-family: Georgia, serif;
+}
+
+.discover {
+    width: 100%;
+    font-size: 20px;
+    margin-top: -60px;
+    color: #0056b3;
+    font-family: cursive;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure the body takes up at least the viewport height */
+    text-align: center;
+    background-image: url('house.jpg'); /* Add your image path here */
+    background-size: cover; /* Cover the entire viewport without stretching */
+    background-position: center; /* Center the image in the page */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-attachment: fixed; /* Optional: keeps the image fixed during scroll */
+}
+
+header {
+    /* background-color: #f4f4f4; */
+    padding: 20px;
+    position: relative;
+}
+
+main {
+    flex: 1; /* Allows the main content to grow and take up available space */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.search-area {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+#searchInput {
+    padding: 10px;
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#searchButton {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#searchButton:hover {
+    background-color: #0056b3;
+}
+
+.image-placeholder {
+    width: 60%;
+    height: 400px;
+    /* background-color: #ddd; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.description {
+    width: 95%;
+    font-size: 18px;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.desc {
+    text-align: center;
+    color: white;
+}
+
+input {
+    color: black;
+}
+
+.panel {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.panel button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.panel button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+}
+
+.loading-bar {
+    width: 0;
+    height: 20px;
+    background-color: #4CAF50;
+    transition: width 2s;
+}
+.loading-text {
+    text-align: center;
+}
+
+#loading {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    margin: 0 auto;
+}

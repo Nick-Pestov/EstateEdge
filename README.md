@@ -1,3 +1,6 @@
+We're excited to announce that this project won Third Place @Hacklytics2024 at Georgia Tech in the FinTech Track and also Third Place [@Intel's](https://pages.github.com/](https://github.com/intel)) Best Use of Intel Developer Cloud challenge!
+
+
 # EstateEdge
 
 <img src="Estate.png" alt="Logo" width="100" height="100">
@@ -9,7 +12,7 @@ In every pixel of satellite imagery lies a story waiting to be told. A narrative
 
 Above is our main website concept. 
 
-Our program prompts users to input a city, and we then gather satellite data, including past and present images. Our program utilizes a machine learning algorithm which compares the images, and from there utilizes an algorithm which determines a "score" relative to past training data in how well it is expected to grow in price. A higher score (typically above 50%) means a higher chance of price growth in the near future, and thus a good investment opportunity. 
+Our program prompts users to input a city, and we then gather satellite data, including past and present images. Our program utilizes a machine learning algorithm which compares the images, and from there utilizes an algorithm which determines a "score" relative to past training data in how well it is expected to grow in price. A higher score (typically above 50%) means a higher chance of price growth shortly, and thus a good investment opportunity. 
 
 Here is an example of two sample aerial images being compared:
 

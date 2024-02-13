@@ -1,7 +1,7 @@
 We're excited to announce that this project won Third Place at Georgia Tech's Hacklytics2024 in the FinTech Track and also Third Place [@Intel's](https://pages.github.com/](https://github.com/intel)) Best Use of Intel Developer Cloud challenge!
 
-🥉 Best Use of Intel Developer Cloud
-🥉 FinTech Track
+-🥉 Best Use of Intel Developer Cloud
+-🥉 FinTech Track
 
 - $2200 in prizes
 
